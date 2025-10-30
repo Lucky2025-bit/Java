@@ -1,5 +1,3 @@
-package New;
-
 abstract class A {
 	abstract void Push();
 }
@@ -20,4 +18,5 @@ class Tester{
 		C.Push();
 		C.Pop();
 	}
+
 }
